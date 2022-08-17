@@ -1,0 +1,3 @@
+These are the codes and data for simulation under correlation of IP GT assumption
+Note that some estimation were failed due to extreme values in the sampling procedure
+therefore there are some compensate simulation to make sure the simulation summary was based on 50 sims 
