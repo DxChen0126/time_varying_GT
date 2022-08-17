@@ -1,2 +1,4 @@
 In this folder and data and codes are for estimating GT under the assumption that
 IP of infector and GT are correlated
+Note in some codes they refer loading an rda file, which is too large to upload (or I can try upload later when I figured out how)
+but following the code you can create the rda by yourself
