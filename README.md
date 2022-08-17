@@ -14,3 +14,5 @@ In the other two folders I did not further put code and data into separate folde
 Note in some codes they refer loading an rda file,
 but following the code you can create the rda by yourself
 or you can refer to the release (https://github.com/DxChen0126/time_varying_GT/releases/tag/rda_results_record) where I have put the most frequently loaded rda data in my codes
+
+The most important codes are GT_sampling_functions and GT_estimation, they are the most essential part of this work
