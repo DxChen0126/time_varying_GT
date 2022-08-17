@@ -1,2 +1,4 @@
 This folder contains data and code for simulation under the assumption that GT and IP are independent
 We tested with differet GT setting and exposure window width
+Note in some codes they refer loading an rda file, which is too large to upload (or I can try upload later when I figured out how)
+but following the code you can create the rda by yourself
