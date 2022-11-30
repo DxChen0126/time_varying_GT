@@ -162,7 +162,7 @@ infectee.Tonset.df <- data.frame(
 all.Tonset.df <- rbind(infector.Tonset.df,
                        infectee.Tonset.df)
 
-
+ID.uniq <- unique(all.Tonset.df$ID)
 Tonset.all <- numeric(length(ID.uniq))
 
 for(i in 1:length(ID.uniq)){
